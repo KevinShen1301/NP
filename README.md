@@ -9,7 +9,7 @@ Theory:
 Pull the port number from port table and push them into student table.
 
 
-1st. Create two databases on local mysql.
+1st. Create two tables on local mysql.
 
 2nd. Use py flask as back end do CRUD Operation and send email.
 
